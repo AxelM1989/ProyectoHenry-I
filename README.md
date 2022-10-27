@@ -1,7 +1,7 @@
 ﻿# PROYECTO INDIVIDUAL -DATA04- SOY HENRY
  ## Data Engineering
  #
- 
+ https://raw.githubusercontent.com/AxelM1989/ProyectoHenry-I
  
  
  
@@ -10,5 +10,5 @@
  
 ### Consigna : Proceso de ETL 
 
-En este primer proyecto individual se realizó un proceso de ETL (extract, transform and load)xtract, transform and load) 
+En este primer proyecto individual se realizó un proceso de ETL (extract, transform and load). Se obtuvieron seis datasets para luego aplicar una limpieza a los mismos y ordenarlos.
 
