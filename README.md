@@ -30,7 +30,7 @@ El tiempo en que se realizo el mismo fue de tres dias.
 * El proyecto fue realizado en su gran mayoría con Python, principalmente con la libreria Pandas. De esta manera fue efectuada la limpieza y unificación de los distintos archivos. Se concatenó en una sola tabla todos los precios semanales de cada producto y sucursal, y para ello se agregó una columna con la información de la semana, ya que los precios se van actualizando.
 * Consiguientemente fueron exportados los archivos a una base de datos. En este caso se utilizó MySQL, generando un Modelo Entidad-Relación. 
 * Desde la base de datos de MySQL se realizó una tabla de auditoria que a través de un Trigger (disparador), indique cuando se actualicen los datos de la tabla de precios semanales y nos devuelva el producto, el usuario que ingresó la actualización y la fecha y hora en que se realizó la misma.
-* Importante aclaración al respecto, en el video de Youtube (que mas abajo comento) no mostré la consulta que me realizó en la tabla de Auditoria. Para ello en este mismo repositorio en la carpeta asset está la captura de pantalla de la misma.
+* Importante aclaración al respecto, en el video de Youtube (que mas abajo comento) no mostré la consulta que se realizó en la tabla de Auditoria. Para ello, en este mismo repositorio, en la carpeta asset, está la captura de pantalla de la misma (para un solo ingreso de actualización de datos) --->
 https://github.com/AxelM1989/ProyectoHenry-I/blob/main/asset/RegistroTablaAuditoria.png
 
 
