@@ -35,10 +35,10 @@ El tiempo que se realizo el proyecto fue de dos dias.
 
 ### Consideraciones a tener en cuenta.
 
-*El link del Repositorio al GitHub personal donde se encuentran los scripts es https://github.com/AxelM1989/ProyectoHenry-I
-*Allí se va a encontrar:
-                        *dsa
-*También dejo un video en youtube que debiamos presentar y no podía sobrepasar los 5 minutos de explicación.
+* El link del Repositorio al GitHub personal donde se encuentran los scripts es https://github.com/AxelM1989/ProyectoHenry-I
+* Allí se va a encontrar:
+                        * dsa
+* También dejo un video en youtube que debiamos presentar y no podía sobrepasar los 5 minutos de explicación.
 
 En sintesis?
 
