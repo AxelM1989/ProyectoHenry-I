@@ -1,9 +1,14 @@
 ﻿# PROYECTO INDIVIDUAL -DATA04- SOY HENRY
  ## Data Engineering
- #
+
 # ![image](https://user-images.githubusercontent.com/103937102/198213872-3f8df29c-706f-4af2-8b4e-a805d2e4cbf4.png)
  
- 
+ #
+  ![image](https://user-images.githubusercontent.com/103937102/198214396-e66bbba3-e91f-429a-9972-24687230b16a.png)
+![image](https://user-images.githubusercontent.com/103937102/198214481-cc721b8b-75dc-49a0-8763-86af158242cd.png)
+![image](https://user-images.githubusercontent.com/103937102/198214658-cc3f4e0c-4599-4e3b-94f2-f69021d550bb.png)
+
+
  
  ### Axel Moriena
  #
