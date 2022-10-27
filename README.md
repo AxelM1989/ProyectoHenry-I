@@ -27,12 +27,19 @@ El tiempo que se realizo el proyecto fue de dos dias.
 * Los archivos se encontraron en distintos formatos a saber "XLSX"(con dos hojas),"JSON","Parquet","csv" y "txt, entre ellos se encontraban distintos formatos en las mismas columnas.
 * El proyecto fue realizado en su gran mayoría con Python, principalmente con la libreria Pandas. De esta manera fue efectuada la limpieza y unificación de los distintos archivos. Se concatenó en una sola tabla todos los precios semanales, y para ello se agregó una columna con la información de la semana ya que los precios se van actualizando.
 * Por último fueron exportados los archivos a una base de datos. En este caso se utilizó MySQL, generando un Modelo Entidad-Relación. 
+* Desde la base de datos de MySQL se realizó una tabla de auditoria que a través de un Trigger, nos indique cuando se actualicen los datos de la tabla de precios semanales y nos devuelva el producto, el usuario que ingresó la actualización y la fecha y hora en que se realizó la misma.
 
-### El siguiente es el diagrama de flujo realizado
+### El siguiente es el diagrama de flujo realizado.
 ![image](https://github.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg)
 
-#
+
+### Consideraciones a tener en cuenta.
+
+*El link del Repositorio al GitHub personal donde se encuentran los scripts es https://github.com/AxelM1989/ProyectoHenry-I
+*Allí se va a encontrar:
+                        *dsa
+*También dejo un video en youtube que debiamos presentar y no podía sobrepasar los 5 minutos de explicación.
 
 En sintesis?
-Cargas Incrementales? Link de Github? Link de Youtube?
+
 
