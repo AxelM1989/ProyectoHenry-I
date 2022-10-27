@@ -1,7 +1,7 @@
 ﻿# PROYECTO INDIVIDUAL -DATA04- SOY HENRY
  ## Data Engineering
  #
-![image](https://user-images.githubusercontent.com/103937102/198213872-3f8df29c-706f-4af2-8b4e-a805d2e4cbf4.png)
+# ![image](https://user-images.githubusercontent.com/103937102/198213872-3f8df29c-706f-4af2-8b4e-a805d2e4cbf4.png)
  
  
  
