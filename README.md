@@ -26,8 +26,8 @@ El tiempo que se realizo el proyecto fue de dos dias.
 * Por último fueron exportados los archivos a una base de datos. En este caso se utilizó MySQL, generando un Modelo Entidad-Relación. 
 
 ### El siguiente es el diagrama de flujo realizado
-
-![image](https://raw.githubusercontent.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg)
+![image](https://github.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg)
+![image]([https://raw.githubusercontent.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg](https://github.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg))
 #
 https://github.com/AxelM1989/ProyectoHenry-I/master/DiagramaDeFlujo.jpg
 
