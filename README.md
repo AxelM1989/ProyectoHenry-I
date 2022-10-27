@@ -37,8 +37,11 @@ El tiempo que se realizo el proyecto fue de dos dias.
 
 * El link del Repositorio al GitHub personal donde se encuentran los scripts es https://github.com/AxelM1989/ProyectoHenry-I
 * Allí se va a encontrar:
-                        * dsa
-* También dejo un video en youtube que debiamos presentar y no podía sobrepasar los 5 minutos de explicación.
+* Un archivo "CargaDatosCSV.ipynb", que contiene el notebook formato "ipynb" en el cual se encuentran todos los scripts de limpieza, normalización y carga de datos.
+* Otro notebook "UnificacionPreciosSemana.ipynb" que contiene todos los datos relacionados a la unificación de las tablas de precios semanales, indicando a cual de ellas pertenece.
+* Archivo de consultas en SQL "PIHenry.sql" y "PIHenry.db" correspondientes a la base de datos utilizada.
+* Y por último el "README.md" y el "DiagramadeFlujo.jpg" contenientes de este archivo.
+* También dejo un video en youtube que debiamos presentar y no podía sobrepasar los 5 minutos de explicación. https://www.youtube.com/watch?v=ZvoZ90MF2FU&t=10s
 
 En sintesis?
 
