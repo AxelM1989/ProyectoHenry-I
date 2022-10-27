@@ -21,7 +21,7 @@
 ### Consigna : Proceso de ETL 
 
 En este primer proyecto individual para la carrera de Data Science en Soy Henry, se realizó un proceso de ETL (extract, transform and load). Se obtuvieron seis(6) datasets para luego realizar una arquitectura de datos. 
-Procesar los archivos, efectuar limpieza, normalización de datos y posteriormente exportar a una base de datos fue la tarea general del proyecto.
+Procesar los archivos, efectuar limpieza, normalización de datos y posteriormente exportar a una base de datos fue la tarea general del proyecto para este Pipeline.
 El tiempo en que se realizo el mismo fue de tres dias.
 
 ### Ejecución:
@@ -45,6 +45,7 @@ https://github.com/AxelM1989/ProyectoHenry-I/blob/main/asset/RegistroTablaAudito
 * Un archivo "CargaDatosCSV.ipynb", que contiene el notebook formato "ipynb" en el cual se encuentran todos los scripts de limpieza, normalización y carga de datos.
 * Otro notebook "UnificacionPreciosSemana.ipynb" que contiene los datos relacionados a la unificación de las tablas de precios semanales, indicando a cual de ellas pertenece.
 * Archivo de consultas en SQL "PIHenry.sql" y "PIHenry.db", esta ultima correspondiente a la base de datos utilizada.
+* "Incremental.py" consistente en la automatización de limpieza de fuentes de datos cargadas con el formato del archivo "precios_semana_20200518.txt", para que en el caso de realizarse algún cambio en él, sea capaz de llamar al script nuevamente, o si se encuentra un nuevo datasets con este mismo formato involucrando a precios de nuevas semanas, se pueda realizar automáticamente los cambios para poder subirse las actualizaciones a la base de datos de MySQL.
 * También el "README.md" y el "DiagramadeFlujo.jpg" contenientes de este archivo.
 * Por último, dejo un link de video en youtube que debiamos presentar y no podía sobrepasar los 5 minutos de explicación. https://www.youtube.com/watch?v=ZvoZ90MF2FU&t=10s
 * Muchas gracias.
