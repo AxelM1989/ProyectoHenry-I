@@ -20,15 +20,16 @@
  
 ### Consigna : Proceso de ETL 
 
-En este primer proyecto individual para la carrera Data Science en Soy Henry se realizó un proceso de ETL (extract, transform and load). Se obtuvieron seis(6) datasets para luego realizar una arquitectura de datos. Procesando los archivos, efectuar limpieza y normalización de datos y posteriormente exportarlo a una base de datos.
-El tiempo que se realizo el proyecto fue de dos dias.
+En este primer proyecto individual para la carrera de Data Science en Soy Henry se realizó un proceso de ETL (extract, transform and load). Se obtuvieron seis(6) datasets para luego realizar una arquitectura de datos. 
+Procesar los archivos, efectuar limpieza, normalización de datos y posteriormente exportar a una base de datos fue la tarea general del proyecto.
+El tiempo en que se realizo el mismo fue de tres dias.
 
 ### Ejecución:
-* Los datasets están relacionados a los precios de productos de distintas cadenas de supermercado. Se contó con una tabla de productos, otra de sucursales y las cuatro restantes de precios de distintas semanas.
-* Los archivos se encontraron en distintos formatos a saber "XLSX"(con dos hojas),"JSON","Parquet","csv" y "txt, entre ellos se encontraban distintos formatos en las mismas columnas.
-* El proyecto fue realizado en su gran mayoría con Python, principalmente con la libreria Pandas. De esta manera fue efectuada la limpieza y unificación de los distintos archivos. Se concatenó en una sola tabla todos los precios semanales, y para ello se agregó una columna con la información de la semana ya que los precios se van actualizando.
-* Por último fueron exportados los archivos a una base de datos. En este caso se utilizó MySQL, generando un Modelo Entidad-Relación. 
-* Desde la base de datos de MySQL se realizó una tabla de auditoria que a través de un Trigger, nos indique cuando se actualicen los datos de la tabla de precios semanales y nos devuelva el producto, el usuario que ingresó la actualización y la fecha y hora en que se realizó la misma.
+* Los datasets están relacionados a los precios de productos de distintas cadenas de supermercado distribuidos por semanas. Se contó con una tabla de productos, otra de sucursales y las cuatro restantes de precios de distintas semanas.
+* Los archivos se encontraron en distintos formatos a saber; "XLSX"(con dos hojas),"JSON","Parquet","csv" y "txt, entre ellos se encontraron distintos formatos para datos similares en las mismas columnas.
+* El proyecto fue realizado en su gran mayoría con Python, principalmente con la libreria Pandas. De esta manera fue efectuada la limpieza y unificación de los distintos archivos. Se concatenó en una sola tabla todos los precios semanales de cada producto y sucursal, y para ello se agregó una columna con la información de la semana, ya que los precios se van actualizando.
+* Consiguientemente fueron exportados los archivos a una base de datos. En este caso se utilizó MySQL, generando un Modelo Entidad-Relación. 
+* Desde la base de datos de MySQL se realizó una tabla de auditoria que a través de un Trigger (disparador), indique cuando se actualicen los datos de la tabla de precios semanales y nos devuelva el producto, el usuario que ingresó la actualización y la fecha y hora en que se realizó la misma.
 
 ### El siguiente es el diagrama de flujo realizado.
 ![image](https://github.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg)
@@ -39,10 +40,11 @@ El tiempo que se realizo el proyecto fue de dos dias.
 * El link del Repositorio al GitHub personal donde se encuentran los scripts es https://github.com/AxelM1989/ProyectoHenry-I
 * Allí se va a encontrar:
 * Un archivo "CargaDatosCSV.ipynb", que contiene el notebook formato "ipynb" en el cual se encuentran todos los scripts de limpieza, normalización y carga de datos.
-* Otro notebook "UnificacionPreciosSemana.ipynb" que contiene todos los datos relacionados a la unificación de las tablas de precios semanales, indicando a cual de ellas pertenece.
-* Archivo de consultas en SQL "PIHenry.sql" y "PIHenry.db" correspondientes a la base de datos utilizada.
-* Y por último el "README.md" y el "DiagramadeFlujo.jpg" contenientes de este archivo.
-* También dejo un video en youtube que debiamos presentar y no podía sobrepasar los 5 minutos de explicación. https://www.youtube.com/watch?v=ZvoZ90MF2FU&t=10s
+* Otro notebook "UnificacionPreciosSemana.ipynb" que contiene los datos relacionados a la unificación de las tablas de precios semanales, indicando a cual de ellas pertenece.
+* Archivo de consultas en SQL "PIHenry.sql" y "PIHenry.db", esta ultima correspondiente a la base de datos utilizada.
+* También el "README.md" y el "DiagramadeFlujo.jpg" contenientes de este archivo.
+* Por último, dejo un link de video en youtube que debiamos presentar y no podía sobrepasar los 5 minutos de explicación. https://www.youtube.com/watch?v=ZvoZ90MF2FU&t=10s
+* Muchas gracias.
 
 
 
