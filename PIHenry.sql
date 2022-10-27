@@ -120,6 +120,25 @@ FROM producto p
 JOIN preciossemana ps on(p.IDProducto=ps.IdProducto)
 WHERE p.nombre= ("Dulce de Leche Castelma");
 
+-- Creación de una tabla de auditoría que indique si se realizaron cambios, la fecha y que usuario.
+DROP TABLE Auditoria;
+CREATE TABLE Auditoria (
+IdRegistro	INT NOT NULL AUTO_INCREMENT,
+Descripcion VARCHAR (50) NOT NULL,
+FechaHora	DATETIME NOT NULL,
+Usuario 	VARCHAR(50) NOT NULL,
+PRIMARY KEY (IdRegistro));
+
+-- Creacion de un trigger que indique en el caso que se haya actualizado la tabla, el IdProducto, Precio, Fecha y Hora y Usuario que lo realizó.
+DROP TRIGGER IF EXISTS Auditoria;
+CREATE TRIGGER Auditoria AFTER INSERT ON PreciosSemana
+FOR EACH ROW
+INSERT INTO Auditoria (Descripcion, FechaHora, Usuario)
+VALUES (concat("Actualizacion Precio de IdProducto: ", NEW.IdProducto), NOW(), CURRENT_USER()); 
+
+INSERT INTO HenryPI.PreciosSemana (IdProducto, IdSucursal, Precio, Semana)
+VALUES ("42345466", "00021096", "180.20", "Semana0606");
+
 
 
 
