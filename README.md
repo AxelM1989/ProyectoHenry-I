@@ -14,6 +14,7 @@
 ### Consigna : Proceso de ETL 
 
 En este primer proyecto individual para la carrera Data Science en Soy Henry se realizó un proceso de ETL (extract, transform and load). Se obtuvieron seis(6) datasets para luego realizar una arquitectura de datos. Procesando los archivos, efectuar limpieza y normalización de datos y posteriormente exportarlo a una base de datos.
+El tiempo que se realizo el proyecto fue de dos dias.
 
 ### Ejecución:
 * Los datasets están relacionados a los precios de productos de distintas cadenas de supermercado. Se contó con una tabla de productos, otra de sucursales y las cuatro restantes de precios de distintas semanas.
