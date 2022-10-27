@@ -1,7 +1,7 @@
 ﻿# PROYECTO INDIVIDUAL -DATA04- SOY HENRY
  ## Data Engineering
  #
- https://raw.githubusercontent.com/AxelM1989/ProyectoHenry-I
+![image](https://user-images.githubusercontent.com/103937102/198213499-6650fef9-477e-48e6-9749-5942088b0cf1.png)
  
  
  
@@ -21,6 +21,7 @@ En este primer proyecto individual para la carrera Data Science en Soy Henry se 
 ### El siguiente es el diagrama de flujo realizado
 
 #
+
 
 En sintesis?
 Cargas Incrementales? Link de Github? Link de Youtube?
