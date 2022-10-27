@@ -1,6 +1,6 @@
 # PROYECTO SOY HENRY - DATA04
  ## Data Engineering
- ![image](https://user-images.githubusercontent.com/103937102/198365590-3fa64810-735a-49c5-982e-16cb75010585.png)
+ ![image](https://user-images.githubusercontent.com/103937102/198365590-3fa64810-735a-49c5-982e-16cb75010585.png width="100")
 
  ![image]https://github.com/AxelM1989/ProyectoHenry-I/blob/main/asset/Henry.png
  
