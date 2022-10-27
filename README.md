@@ -24,6 +24,7 @@ En este primer proyecto individual para la carrera Data Science en Soy Henry se 
 * Por último fueron exportados los archivos a una base de datos. En este caso se utilizó MySQL, generando un Modelo Entidad-Relación. 
 
 ### El siguiente es el diagrama de flujo realizado
+https://github.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg
 
 #
 
