@@ -27,9 +27,8 @@ El tiempo que se realizo el proyecto fue de dos dias.
 
 ### El siguiente es el diagrama de flujo realizado
 ![image](https://github.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg)
-![image]([https://raw.githubusercontent.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg](https://github.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg))
+
 #
-https://github.com/AxelM1989/ProyectoHenry-I/master/DiagramaDeFlujo.jpg
 
 En sintesis?
 Cargas Incrementales? Link de Github? Link de Youtube?
