@@ -20,7 +20,7 @@
  
 ### Consigna : Proceso de ETL 
 
-En este primer proyecto individual para la carrera de Data Science en Soy Henry se realizó un proceso de ETL (extract, transform and load). Se obtuvieron seis(6) datasets para luego realizar una arquitectura de datos. 
+En este primer proyecto individual para la carrera de Data Science en Soy Henry, se realizó un proceso de ETL (extract, transform and load). Se obtuvieron seis(6) datasets para luego realizar una arquitectura de datos. 
 Procesar los archivos, efectuar limpieza, normalización de datos y posteriormente exportar a una base de datos fue la tarea general del proyecto.
 El tiempo en que se realizo el mismo fue de tres dias.
 
