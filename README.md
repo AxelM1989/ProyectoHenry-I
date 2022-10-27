@@ -27,7 +27,7 @@ En este primer proyecto individual para la carrera Data Science en Soy Henry se 
 
 https://raw.githubusercontent.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg
 #
-
+https://github.com/AxelM1989/ProyectoHenry-I/master/DiagramaDeFlujo.jpg
 
 En sintesis?
 Cargas Incrementales? Link de Github? Link de Youtube?
