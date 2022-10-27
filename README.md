@@ -10,7 +10,7 @@
 
 
 
- 
+ # 
  ### Axel Moriena
  #
  
@@ -27,7 +27,7 @@ El tiempo que se realizo el proyecto fue de dos dias.
 
 ### El siguiente es el diagrama de flujo realizado
 
-https://raw.githubusercontent.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg
+![image](https://raw.githubusercontent.com/AxelM1989/ProyectoHenry-I/blob/main/DiagramaDeFlujo.jpg)
 #
 https://github.com/AxelM1989/ProyectoHenry-I/master/DiagramaDeFlujo.jpg
 
